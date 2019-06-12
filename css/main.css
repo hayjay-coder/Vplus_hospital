@@ -1,0 +1,55 @@
+f*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+ 
+body{
+/*    color:;*/
+    font-family:'Alegreya Sans', sans-serif;
+
+}
+
+nav ul li a:hover{
+    color: #c3d7df;
+}
+
+.logo{
+    float: left;
+    width: 100px;
+    height: 90px;
+}
+nav {
+	height: 90px;
+	background: #666;
+}
+
+nav ul li{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 150%;
+    display: inline-block;
+    float:right;
+    padding: 20px;
+    
+}
+
+nav li {
+	float:left;
+}
+/*end navigation*/
+
+h1{
+    font-size:250%;
+    font-weight:700;
+    text-align:center;
+    padding-top:2%;
+    font: 
+} 
+h2{
+    font-size:180%;
+    font-weight:700;
+    text-align:left;
+    padding-top:2%;
+}
+
+ 
